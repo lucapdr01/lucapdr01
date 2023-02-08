@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 I am a Blockchain Developer from Italy. <br/>
- In the last 2 years, I worked as a Blockchain Developer in startups realizing landing pages in Reactjs and integrating web3 services. 
+ In the last 2 years, I worked as a Blockchain Developer in startups realizing frontends with React, backends with Nodejs and integrating Web3 services. 
  I'm also the co-founder of Logyq Protocol : a supply chain tracking protocol native on the Cardano ecosystem built with the help of a 45.000$ 
  investmet by the Cardano Foundation
  
