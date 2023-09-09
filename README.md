@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am currently pursuing a bachelor's degree in Automation Engineering, with a deep passion for software development, startups, and running. My journey began with gaining valuable work experience at a small DeFi company, where I honed my skills. Building upon that foundation, I co-founded a web3 startup with a group of like-minded friends, taking on the role of leading software development for our supply chain tracking protocol.
+I am currently pursuing a Master's degree in Computer Science Engineering, with a deep passion for software development, startups, and running. My journey began with gaining valuable work experience at a small DeFi company, where I honed my skills. Building upon that foundation, I co-founded a web3 startup with a group of like-minded friends, taking on the role of leading software development for our supply chain tracking protocol.
 Looking ahead, my aspirations lie in becoming a proficient software architect, leveraging my expertise to contribute to larger companies. Simultaneously, I strive to maintain my connection to the vibrant startup ecosystem by offering my technical guidance and insights as a trusted advisor. I am eager to embrace the opportunities that lie ahead and continue my professional growth in both established and entrepreneurial settings.
  
  ---
